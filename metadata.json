@@ -1,0 +1,8 @@
+{
+  "name": "DECIDO",
+  "description": "An AI-powered decision engine that evaluates choices through structured multi-agent reasoning, delivering clear and justified outcomes without the fluff of a chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
